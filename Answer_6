@@ -1,0 +1,4 @@
+Git log is a command used in Git to access the history of commits that the repository has gone through. 
+Git show shows you the current status of commit.
+Git Blame is a tracking command used in Git to find the Author Name and commit information of the last modified version of the source file.
+Git grep is a useful command for searching the specific content in the git repository.
